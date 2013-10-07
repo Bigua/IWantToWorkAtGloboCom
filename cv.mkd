@@ -1,26 +1,34 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+- Área de Esportes.
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+- Área de Jornalismo.
+
+- Área de Semântica.
+
+- Área de Comentários.
+
+- Área Plataforma de Cadastro.
+
+- Qualquer área onde eu possa programar =)
+
 
 CV
 ==
 
 
-José Ademar Peixoto de Souza – *Biguá*
+**José Ademar Peixoto de Souza** – *Biguá*
 
 Programador, 30 anos, Casado.
 
-ademar.peixoto@gmail.com
+<ademar.peixoto@gmail.com>
 
-@pixeledbird
+[@pixeledbird](http://twitter.com/pixeledbird)
 
-www.bigua.me
+[bigua.me](http://www.bigua.me)
 
-Endereço residencial: 3ª. Avenida AE 13 Lote A/B apto 412
+Endereço: 3ª. Avenida AE 13 Lote A/B apto 412
 
 Núcleo Bandeirante, Brasília - DF
 
