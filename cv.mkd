@@ -88,7 +88,7 @@ Atividades: Manutenção de computadores e redes e servidores
 Windows/Linux
 
 
--   ******LINGUAGENS DE PROGRAMAÇÃO E TECNOLOGIAS**
+-   **LINGUAGENS DE PROGRAMAÇÃO E TECNOLOGIAS**
 
 Javascript – Orientação a Objetos, JQuery, Openlayers, Leaflet,
 Highcharts, AMCharts, ZeptoJS, AngularJS
