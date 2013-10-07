@@ -8,11 +8,7 @@ __Dicas:__
 
 CV
 ==
----
-title: Currículo Ademar
-...
 
-\
 
 José Ademar Peixoto de Souza – *Biguá*
 
@@ -30,31 +26,26 @@ Núcleo Bandeirante, Brasília - DF
 
 Telefone: (61) 3541 6541 / (61) 8219 3757
 
-\
+
 
 -   **CARACTERÍSTICAS**
 
-****\
 
 Profissional dinâmico e autodidata apaixonado por programação,
 tecnologia e história da computação.
 
-\
 
 -   **FORMAÇÃO ACADÊMICA**
 
-****\
 
 2013 – em andamento Especialização em desenvolvimento para dispositivos
 móveis – IESB
 
 2006 – 2010 Bacharelado em Sistemas de Informação – UFMS
 
-\
 
 -   **ATUAÇÃO PROFISSIONAL**
 
-****\
 
 **12/2011 – 07/2013 CDS – Condomínio de soluções corporativas**
 
@@ -64,7 +55,6 @@ Atividades: Desenvolvimento de sistemas web com inteligência geográfica,
 desenvolvimento de camadas de apresentação web para dados complexos
 oriundos de softwares de inteligência em negócios (BI).
 
-\
 
 **11/2010 – 12/2011 OpenGEO Consultoria de Informática**
 
@@ -73,7 +63,6 @@ Cargo: Analista/Programador
 Atividades: Desenvolvimento de sistemas web com inteligência geográfica
 utilizando tecnologias livres.
 
-\
 
 **09/2010 – 11/2010 B2Br – Grupo TBA**
 
@@ -82,7 +71,6 @@ Cargo: Operador técnico Júnior.
 Atividades: Monitoramento de processos, escrita e manutenção de shell
 scripts para ambiente Linux/Unix.
 
-\
 
 **08/2006 – 06/2010 Laboratório LSD – UFMS - Estagiário de graduação**
 
@@ -91,7 +79,6 @@ Cargos: Programador, Administrador da Rede, Chefe do Suporte, Webmaster.
 Atividades: Criação e manutenção de sites e sistemas internos,
 coordenação da equipe de suporte.
 
-\
 
 **02/2003 – 06/2006 BR Informática**
 
@@ -100,7 +87,6 @@ Cargo: Técnico Residente/Administrador da rede
 Atividades: Manutenção de computadores e redes e servidores
 Windows/Linux
 
-\
 
 -   ******LINGUAGENS DE PROGRAMAÇÃO E TECNOLOGIAS**
 
@@ -119,19 +105,15 @@ Outras – Shell Script, C, C++ e Objective-C. 
 
 Servidores – Apache, Nginx, Lighttpd, Tilecache, Mapserver e Geoserver.
 
-\
 
 -   **IDIOMAS**
 
-****\
 
 Inglês – Leitura, escrita e fala – Nível intermediário.
 
-\
 
 -   **CURSOS COMPLEMENTARES**
 
-****\
 
 Formação Front-end – Caelum Ensino e Inovação
 
