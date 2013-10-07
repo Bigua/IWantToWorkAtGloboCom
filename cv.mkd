@@ -8,12 +8,139 @@ __Dicas:__
 
 CV
 ==
+---
+title: Currículo Ademar
+...
 
-[Preencha aqui o seu cv]
+\
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+José Ademar Peixoto de Souza – *Biguá*
+
+Programador, 30 anos, Casado.
+
+ademar.peixoto@gmail.com
+
+@pixeledbird
+
+www.bigua.me
+
+Endereço residencial: 3ª. Avenida AE 13 Lote A/B apto 412
+
+Núcleo Bandeirante, Brasília - DF
+
+Telefone: (61) 3541 6541 / (61) 8219 3757
+
+\
+
+-   **CARACTERÍSTICAS**
+
+****\
+
+Profissional dinâmico e autodidata apaixonado por programação,
+tecnologia e história da computação.
+
+\
+
+-   **FORMAÇÃO ACADÊMICA**
+
+****\
+
+2013 – em andamento Especialização em desenvolvimento para dispositivos
+móveis – IESB
+
+2006 – 2010 Bacharelado em Sistemas de Informação – UFMS
+
+\
+
+-   **ATUAÇÃO PROFISSIONAL**
+
+****\
+
+**12/2011 – 07/2013 CDS – Condomínio de soluções corporativas**
+
+Cargo: Analista Desenvolvedor Pleno 3
+
+Atividades: Desenvolvimento de sistemas web com inteligência geográfica,
+desenvolvimento de camadas de apresentação web para dados complexos
+oriundos de softwares de inteligência em negócios (BI).
+
+\
+
+**11/2010 – 12/2011 OpenGEO Consultoria de Informática**
+
+Cargo: Analista/Programador
+
+Atividades: Desenvolvimento de sistemas web com inteligência geográfica
+utilizando tecnologias livres.
+
+\
+
+**09/2010 – 11/2010 B2Br – Grupo TBA**
+
+Cargo: Operador técnico Júnior.
+
+Atividades: Monitoramento de processos, escrita e manutenção de shell
+scripts para ambiente Linux/Unix.
+
+\
+
+**08/2006 – 06/2010 Laboratório LSD – UFMS - Estagiário de graduação**
+
+Cargos: Programador, Administrador da Rede, Chefe do Suporte, Webmaster.
+
+Atividades: Criação e manutenção de sites e sistemas internos,
+coordenação da equipe de suporte.
+
+\
+
+**02/2003 – 06/2006 BR Informática**
+
+Cargo: Técnico Residente/Administrador da rede
+
+Atividades: Manutenção de computadores e redes e servidores
+Windows/Linux
+
+\
+
+-   ******LINGUAGENS DE PROGRAMAÇÃO E TECNOLOGIAS**
+
+Javascript – Orientação a Objetos, JQuery, Openlayers, Leaflet,
+Highcharts, AMCharts, ZeptoJS, AngularJS
+
+Web – HTML, CSS.
+
+Python – Orientação a Objetos, Django (básico), Kivy(básico)
+
+PHP – Orientação a Objetos, Zend, Yii, CakePHP, WordPress, Mediawiki
+
+Java – Orientação a Objetos, Swing, Android (API lvl.16)
+
+Outras – Shell Script, C, C++ e Objective-C. 
+
+Servidores – Apache, Nginx, Lighttpd, Tilecache, Mapserver e Geoserver.
+
+\
+
+-   **IDIOMAS**
+
+****\
+
+Inglês – Leitura, escrita e fala – Nível intermediário.
+
+\
+
+-   **CURSOS COMPLEMENTARES**
+
+****\
+
+Formação Front-end – Caelum Ensino e Inovação
+
+Desenvolvimento de aplicações para IOS – ENG DTP & Multimídia
+
+Desenvolvimento de aplicações Móveis com Android – X25 Treinamento
+
+PHP e MySql – ERI-MS (Evento)
+
+Desenvolvimento de Jogos em Python – GamesulMT (Evento)
+
+Servidores Linux  e Shell Script – ERI-MS (Evento)
